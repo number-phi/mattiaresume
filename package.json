@@ -1,5 +1,8 @@
 {
   "name": "mattiaresume",
+  "bin": {
+    "mattiaresume": "./index.js"
+  },
   "version": "1.0.0",
   "description": "My NPM Package Resume - Mattia Contessa",
   "main": "index.js",
