@@ -1,0 +1,64 @@
+{
+    "Experience": [
+      {
+        "company": "Welol Next",
+        "title": ".NET Full Stack Developer",
+        "location": "Turin, Italy",
+        "Tech": "C#, Asp.NET, JavaScript, MVC, Azure, Rest API, IoT",
+        "years": "06/2016 - till now"
+      },
+      {
+        "company": "Ulixe Group",
+        "title": "Software Developer/ Functional analysts, IT consultant",
+        "customer": "Reale Mutua Insurance",
+        "location": "Turin, Italy",
+        "Tech": "Java, JavaScript, Adobe LiveCycle, JBoss, iBatis, Web Serivices",
+        "years": "10/2011 - 06/2016"
+      },
+      {
+        "company": "IPSNet",
+        "title": "Web / Mobile Apps Developer",
+        "location": "Turin, Italy",
+        "Tech": "C#, Asp.NET, C++, Bada, Java, Android",
+        "years": "06/2010 - 07/2011"
+      }
+    ],
+    "Education": [
+      {
+        "institution": "Università degli studi di Torino",
+        "description": "Attend majoring in Computer Science",
+        "years": "2010 - 2015"
+      },
+      {
+        "institution": "I.T.I.S. Ettore Majorana, Grugliasco, Turin, Italy",
+        "description": "Partecipated in an experimental course IG2 (Interactive Graphics and Games).",
+        "years": "2005-2010"
+      }
+    ],
+    "Languages": [
+      "Italian",
+      "English"
+    ],
+    "Public profiles": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/number-phi"
+      },
+      {
+        "name": "StackOverflow",
+        "link": "https://stackoverflow.com/users/2650704/nmbrphi?tab=profile"
+      },
+      {
+        "name": "LinkedIN",
+        "link": "https://www.linkedin.com/in/mattia-contessa/"
+      },
+      {
+        "name": "NPM",
+        "link": "https://www.npmjs.com/~nmbrphi"
+      },
+      {
+        "name": "Site",
+        "link": "https://www.mattiacontessa.xyz/"
+      }
+    ]
+  }

@@ -1,0 +1,28 @@
+{
+  "name": "mattiaresume",
+  "version": "1.0.0",
+  "description": "My NPM Package Resume - Mattia Contessa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/number-phi/mattiaresume.git"
+  },
+  "keywords": [
+    "Resume",
+    "Mattia",
+    "Contessa"
+  ],
+  "author": "Mattia Contessa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/number-phi/mattiaresume/issues"
+  },
+  "homepage": "https://github.com/number-phi/mattiaresume#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
+}
