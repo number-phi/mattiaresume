@@ -2,11 +2,18 @@
     "Experience": [
       {
         "company": "Welol Next",
+        "title": "Cloud Solution Architect",
+        "location": "Turin, Italy",
+        "Tech": "Azure, IaaS and PaaS services",
+        "years": "01/2021 - till now"
+      },
+      {
+        "company": "Welol Next",
         "title": ".NET Full Stack Developer",
         "location": "Turin, Italy",
         "Tech": "C#, Asp.NET, JavaScript, MVC, Azure, Rest API, IoT",
-        "years": "06/2016 - till now"
-      },
+        "years": "06/2016 - 01/2021"
+      },        
       {
         "company": "Ulixe Group",
         "title": "Software Developer/ Functional analysts, IT consultant",
