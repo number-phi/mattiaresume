@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/mattiaresume.svg?style=flat)](https://www.npmjs.com/package/mattiaresume)
 [![npm](https://img.shields.io/npm/dt/mattiaresume.svg)](https://npm-stat.com/charts.html?package=mattiaresume)
 [![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/number-phi/mattiaresume/blob/master/LICENSE)
-
+![Node.js Package](https://github.com/number-phi/mattiaresume/workflows/Node.js%20Package/badge.svg)
 
 This project is inspired by [How to make your Résumé an NPM package](https://blog.usejournal.com/how-to-make-your-r%C3%A9sum%C3%A9-an-npm-package-fc5d6b6a3fbd) article.
 
