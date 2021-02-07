@@ -28,6 +28,7 @@ jobs:
       - name: Publish
         run: |
           npm config set //registry.npmjs.org/:_authToken ${NODE_AUTH_TOKEN}
+          npm version patch
           npm publish --ignore-scripts
 #      - run: npm ci
 #      - run: npm version patch
