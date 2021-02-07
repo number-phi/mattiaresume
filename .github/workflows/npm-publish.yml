@@ -24,9 +24,13 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-          registry-url: https://registry.npmjs.org/
-      - run: npm ci
-      - run: npm version patch
-      - run: npm publish --access=public
+          #registry-url: https://registry.npmjs.org/
+      - name: Publish
+        run: |
+          npm config set //registry.npmjs.org/:_authToken ${NODE_AUTH_TOKEN}
+          npm publish --ignore-scripts
+#      - run: npm ci
+#      - run: npm version patch
+#      - run: npm publish --access=public
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
