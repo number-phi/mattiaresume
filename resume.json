@@ -30,6 +30,46 @@
         "years": "06/2010 - 07/2011"
       }
     ],
+    "Certifications": [
+      {
+        "code":"AZ-203",
+        "title":"Azure Developer",
+        "issuer":"Microsoft",
+        "earned":"10/2019"        
+      },
+      {
+        "code":"AZ-400",
+        "title":"Designing and Implementing Microsoft DevOps Solutions",
+        "issuer":"Microsoft",
+        "earned":"10/2020"        
+      },
+      {
+        "code":"AZ-104",
+        "title":"Azure Administrator",
+        "issuer":"Microsoft",
+        "earned":"12/2020"        
+      },
+      {
+        "code":"AZ-303",
+        "title":"Microsoft Azure Architect Technologies",
+        "issuer":"Microsoft",
+        "earned":"03/2021"        
+      }
+    ],
+    "Badge": [
+      {
+        "title":"Azure Developer Associate",
+        "issuer":"Microsoft"
+      },
+      {
+        "title":"DevOps Engineer Expert",
+        "issuer":"Microsoft"
+      },
+      {
+        "title":"Azure Administrator Associate",
+        "issuer":"Microsoft"
+      }
+    ],
     "Education": [
       {
         "institution": "Università degli studi di Torino",
