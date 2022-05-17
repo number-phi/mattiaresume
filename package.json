@@ -3,7 +3,7 @@
   "bin": {
     "mattiaresume": "./index.js"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My NPM Package Resume - Mattia Contessa",
   "main": "index.js",
   "scripts": {
