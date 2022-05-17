@@ -34,16 +34,6 @@ jobs:
       - run: git config --global user.email '${{ secrets.GH_PERSONAL_EMAIL }}'
       - run: npm version patch -m "[RELEASE] %s"
       - run: git push
-
-  publish-npm:
-    needs: new-version
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 14
-          registry-url: https://registry.npmjs.org/
       - run: npm publish --access=public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
