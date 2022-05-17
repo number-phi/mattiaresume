@@ -32,7 +32,7 @@ function main() {
         console.log(greeting);
         resumeHandler();
       }
-    }, 200);
+    }, 100);
   }
   else {
     console.clear(); 
